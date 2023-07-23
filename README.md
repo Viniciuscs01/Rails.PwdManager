@@ -1,0 +1,2 @@
+rails db:encryption:init
+
